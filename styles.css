@@ -1,4 +1,10 @@
 .sidenav {
   width: 160px;
   position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
 }
