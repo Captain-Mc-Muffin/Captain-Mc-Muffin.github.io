@@ -23,6 +23,7 @@
 }
 
 .navbar {
+  padding-left: 160px;
   margin-left: 160px;
   background-color: black;
   height: 60px;
