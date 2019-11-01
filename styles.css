@@ -23,10 +23,9 @@
 }
 
 .navbar {
-  z-index: -1;
   padding: 20px;
   margin-left: 160px;
-  background-color: black;
+  background-color: #34c6eb;
   height: 60px;
 }
 
