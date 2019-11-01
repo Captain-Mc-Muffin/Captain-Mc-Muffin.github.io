@@ -21,3 +21,10 @@
   margin-left: 160px;
   padding: 0px 10px;
 }
+
+.navbar {
+  margin-left: 160px;
+  background-color: black;
+  height: 60px;
+  width: 100%;
+}
