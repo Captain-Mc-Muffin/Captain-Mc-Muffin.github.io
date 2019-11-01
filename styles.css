@@ -23,6 +23,7 @@
 }
 
 .navbar {
+  z-index: 1;
   padding: 20px;
   margin-left: 160px;
   background-color: black;
