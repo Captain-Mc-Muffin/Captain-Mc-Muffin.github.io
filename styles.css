@@ -30,5 +30,6 @@
 }
 
 .navbar h1 {
+  z-index: 1;
   color: white;
 }
