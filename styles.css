@@ -28,3 +28,7 @@
   background-color: black;
   height: 60px;
 }
+
+.navbar h1 {
+  color: white;
+}
