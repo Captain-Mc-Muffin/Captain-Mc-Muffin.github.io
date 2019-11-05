@@ -1,5 +1,4 @@
-html,
-body {
+html{
   margin: 0;
   padding: 0;
   height: 100%;
@@ -38,6 +37,6 @@ body {
   background-color: #34c6eb;
 }
 
-.navbar h1 {
+.navbar {
   color: white;
 }
