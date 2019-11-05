@@ -28,6 +28,7 @@
   padding-left: 20px;
   margin-left: 140px;
   background-color: #34c6eb;
-  margin-top: -22px;
+  position: relative;
+  top: -22px;
   color: white;
 }
